@@ -164,48 +164,137 @@ SELECT country_id,
 FROM locations
 GROUP BY country_id;
 -- 26. Display average salary of employees in each department who have commission percentage.
+
+
 -- 27. Display job ID, number of employees, sum of salary, and difference between highest salary and lowest salary of the employees of the job.
+
+
 -- 28. Display job ID for jobs with average salary more than 10000.
+
+
 -- 29. Display years in which more than 10 employees joined.
 
+
 -- 30. Display departments in which more than five employees have commission percentage.
+
+
 -- 31. Display employee ID for employees who did more than one job in the past.
+
+
 -- 32. Display job ID of jobs that were done by more than 3 employees for more than 100 days.
+
+
 -- 33. Display department ID, year, and Number of employees joined.
+
+
 -- 34. Display departments where any manager is managing more than 5 employees.
+
+
 -- 35.Change salary of employee 115 to 8000 if the existing salary is less than 6000.
+
+
 -- 36. Insert a new employee into employees with all the required details.
+
+
 -- 37. Delete department 20.
+
+
 -- 38.Change job ID of employee 110 to IT_PROG if the employee belongs to department
+
+
 -- 10 and the existing job ID does not start with IT.
+
+
 -- 39. Insert a row into departments table with manager ID 120 and location ID in any location ID for city Tokyo.
+
+
 -- 40. Display department name and number of employees in the department.
+
+
 -- 41. Display job title, employee ID, number of days between ending date and starting date for all jobs in department 30 from job history.
+
+
 -- 42. Display department name and manager first name.
+
+
 -- 43. Display department name, manager name, and city.
+
+
 -- 44. Display country name, city, and department name.
+
+
 -- 45. Display job title, department name, employee last name, starting date for all jobs from 2000 to 2005.
+
+
 -- 46. Display job title and average salary of employees
+
+
 -- 47. Display job title, employee name, and the difference between maximum salary for the job and salary of the employee.
+
+
 -- 48. Display last name, job title of employees who have commission percentage and belongs to department 30.
+
+
 -- 49. Display details of jobs that were done by any employee who is currently drawing more than 15000 of salary.
+
+
 -- 50. Display department name, manager name, and salary of the manager for all managers whose experience is more than 5 years.
+
+
 -- 51. Display employee name if the employee joined before his manager.
+
+
 -- 52. Display employee name, job title for the jobs employee did in the past where the job was done less than six months.
+
+
 -- 53. Display employee name and country in which he is working.
+
+
 -- 54. Display department name, average salary and number of employees with commission within the department.
+
+
 -- 55. Display the month in which more than 5 employees joined in any department located in Sydney.
+
+
 -- 56. Display details of departments in which the maximum salary is more than 10000.
+
+
 -- 57. Display details of departments managed by ‘Smith’.
+
+
 -- 58. Display jobs into which employees joined in the current year.
+
+
 -- 59. Display employees who did not do any job in the past.
+
+
 -- 60. Display job title and average salary for employees who did a job in the past.
+
+
 -- 61. Display country name, city, and number of departments where department has more than 5 employees.
+
+
 -- 62. Display details of manager who manages more than 5 employees.
+
+
 -- 63. Display employee name, job title, start date, and end date of past jobs of all employees with commission percentage null.
+
+
 -- 64. Display the departments into which no employee joined in last two years.
+
+
 -- 65. Display the details of departments in which the max salary is greater than 10000 for employees who did a job in the past.
+
+
 -- 66. Display details of current job for employees who worked as IT Programmers in the past.
+
+
 -- 67. Display the details of employees drawing the highest salary in the department.
+
+
 -- 68. Display the city of employee whose employee ID is 105.
+
+
 -- 69. Display third highest salary of all employees
+
+
