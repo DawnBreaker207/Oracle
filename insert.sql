@@ -1,3 +1,4 @@
+SET DEFINE OFF
 INSERT INTO ROLES (NAME, DESCRIPTION) VALUES ('ADMIN',      'System Administrator');
 INSERT INTO ROLES (NAME, DESCRIPTION) VALUES ('SALES',      'Sales Department');
 INSERT INTO ROLES (NAME, DESCRIPTION) VALUES ('STOCK',      'Stock/Warehouse Management');
