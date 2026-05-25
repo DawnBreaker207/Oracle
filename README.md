@@ -33,9 +33,3 @@ sqlplus hr/abc123@ORCLPDB
 ```sql
 ALTER SESSION SET CURRENT_SCHEMA = admin
 ```
-
--- Run SQL form Github
-
-```sql
-@https://raw.githubusercontent.com/DawnBreaker207/Oracle/main/setup.sql
-```
