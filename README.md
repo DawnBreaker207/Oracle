@@ -37,5 +37,5 @@ ALTER SESSION SET CURRENT_SCHEMA = admin
 -- Run SQL form Github
 
 ```sql
-SQL> @https://raw.githubusercontent.com/username/repo/main/setup.sql
+SQL> @https://raw.githubusercontent.com/DawnBreaker207/Oracle/main/setup.sql
 ```
